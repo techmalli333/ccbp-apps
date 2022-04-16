@@ -1,0 +1,323 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #1F2440;
+    min-height: 100vh;
+    background-size: cover;
+}
+
+.padding {
+    padding: 5px;
+    padding-top: 50px;
+}
+
+.nav-text {
+    color: #b7c7d4;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.icon-color {
+    color: #DDC162;
+    font-size: 25px;
+}
+
+.pin-color {
+    color: #DDC162;
+    font-size: 40px;
+}
+
+.flower-color {
+    color: #DDC162;
+    font-size: 40px;
+}
+
+
+.icon-text {
+    color: white;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.space-around {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.explore-button {
+    font-size: 18px;
+    color: #000000;
+    background: linear-gradient(89.67deg, #A97F42 5.43%, #DDC162 51.63%, #B59D64 99.8%);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+.for-1-button {
+    font-size: 18px;
+    color: black;
+    padding: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background: linear-gradient(89.67deg, #A97F42 5.43%, #DDC162 51.63%, #B59D64 99.8%);
+    border-width: 0;
+    border-radius: 10px;
+}
+
+.for-2-button {
+    font-size: 18px;
+    color: white;
+    padding: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 1;
+    border-radius: 10px;
+}
+
+.fb-btn {
+    color: white;
+    padding: 5px;
+    left: 576px;
+    top: 638px;
+    border-radius: 4px;
+    background-color: blue;
+    border-style: solid;
+    border-width: 1;
+}
+
+.google {
+    background-color: red;
+}
+
+.hand {
+    cursor: pointer;
+}
+
+.dark-text {
+    color: #b0a999;
+}
+
+.download-btn {
+    font-size: 18px;
+    color: black;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: linear-gradient(89.67deg, #A97F42 5.43%, #DDC162 51.63%, #B59D64 99.8%);
+    border-width: 0;
+    border-radius: 6px;
+}
+
+.hr-line {
+    border: 1px solid white;
+    width: 200px;
+}
+
+.sm-br {
+    border: 1px solid white;
+    width: 50px;
+}
+
+.hr-line-full {
+    border: 1px solid white;
+}
+
+
+.margin-1 {
+    margin-top: 200px;
+}
+
+.margin-2 {
+    margin-top: 100px;
+}
+
+.margin-3 {
+    margin-top: 300px;
+}
+
+.img {
+    background-size: cover;
+    height: 230px;
+    width: 450px;
+}
+
+.singin-box {
+    border-color: #00D3FF;
+    padding: 20px;
+    border-style: solid;
+    color: white;
+    border-width: 3px;
+    height: 496px;
+    width: 418px;
+    left: 511px;
+    top: 202px;
+    border-radius: 10px;
+    align-items: center;
+
+}
+
+.singin-btn {
+    height: 37px;
+    width: 316px;
+    left: 562px;
+    top: 526px;
+    border-radius: 41px;
+    background-color: #DDC162;
+
+}
+
+.form-control {
+    height: 40px;
+    width: 316px;
+    left: 562px;
+    top: 337px;
+    border-radius: 10px;
+    background-color: transparent;
+    border-color: white;
+}
+
+.Password {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    font-family: Roboto;
+    font-weight: 400;
+    color: green;
+    text-align: right !important;
+
+}
+
+.ecosystems {
+    background-image: url('https://res.cloudinary.com/mettumalli/image/upload/e_trim:10/v1623840638/eco%20systems/00_ejohes.png');
+    background-size: cover;
+    height: 100px;
+    width: 900px;
+
+}
+
+.products {
+    background-image: url('https://res.cloudinary.com/mettumalli/image/upload/v1623841146/eco%20systems/pro_kj6cog.png');
+
+}
+
+.mvp {
+    background-image: url('https://res.cloudinary.com/mettumalli/image/upload/v1623841916/eco%20systems/212_t8hspf.png');
+
+}
+
+.token {
+    background-image: url('https://res.cloudinary.com/mettumalli/image/upload/v1623842314/eco%20systems/ma00_i1tkyz.png');
+}
+
+.roadmap {
+    background-image: url('https://res.cloudinary.com/mettumalli/image/upload/v1623842460/eco%20systems/m22_pi2h7j.png');
+}
+
+.products {
+    background-image: url('https://res.cloudinary.com/mettumalli/image/upload/v1623842568/eco%20systems/m00_kjghzv.png');
+}
+
+.faqs {
+    background-image: url('https://res.cloudinary.com/mettumalli/image/upload/v1623842625/eco%20systems/csdzc_t5ij57.png');
+}
+
+.newsletter {
+    background-image: url('https://res.cloudinary.com/mettumalli/image/upload/v1623842675/eco%20systems/kasn_x_j2gtfx.png');
+}
+
+.border-box {
+    font-size: 16px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #DDC162;
+    border-radius: 6px;
+    color: white;
+    border-width: 3px;
+    max-width: 780px;
+}
+
+.top {
+    border-color: #00D3FF;
+}
+
+.gold-color {
+    color: #DDC162;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 50px;
+}
+
+.color1 {
+    background-color: #00D3FF;
+    height: 90px;
+    width: 10px;
+}
+
+.color2 {
+    background-color: #9F66F7;
+    height: 90px;
+    width: 10px;
+}
+
+.color3 {
+    background-color: #F5B347;
+    height: 90px;
+    width: 10px;
+}
+
+.color4 {
+    background-color: #F766B4;
+    height: 90px;
+    width: 10px;
+}
+
+
+.normal-bg {
+    background-color: #1F2440;
+    height: 91px;
+    background-size: cover;
+}
+
+.empty_img {
+    height: 216px;
+    width: 155px;
+    background-color: white;
+}
+
+.subscribe {
+    background-color: #1F2440;
+    color: white;
+}
+
+.vr-top {
+    border-left: 2px solid white;
+    height: 90px;
+}
+
+.vertical {
+    border-left: 2px solid white;
+    height: 200px;
+}
+
+.vertical-sml {
+    border-left: 2px solid white;
+    height: 20px;
+}
+
+
+.welcome {
+    color: white;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
